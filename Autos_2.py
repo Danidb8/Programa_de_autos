@@ -42,3 +42,6 @@ for i in ventas:
     precio = calcular_precio (marca, puertas, color, largo)
     print (" La persona " + i ["nombre"] + " " + i ["apellido"] + " compró un auto " + i ["marca"] + " con " + str (i["puertas"]) + 
     " puertas, de color " + i ["color"] + " por un total de $ " + i ["precio"])
+
+#MENSAJE PARA GITHUB
+print (""""""""""""""""""""""""""""""""""PROGRAMA DE AUTOS""""""""""""""""""""""""""")
